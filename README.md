@@ -9,7 +9,8 @@ Welcome!: https://www.codewars.com/kata/577ff15ad648a14b780000e7<br>
 Capitalization and Mutability : https://www.codewars.com/kata/595970246c9b8fa0a8000086/train/javascript<br>
 Simple multiplication : https://www.codewars.com/kata/583710ccaa6717322c000105/train/javascript<br>
 Who ate the cookie? : https://www.codewars.com/kata/55a996e0e8520afab9000055<br>
-Who is going to pay for the wall? : https://www.codewars.com/kata/58bf9bd943fadb2a980000a7
+Who is going to pay for the wall? : https://www.codewars.com/kata/58bf9bd943fadb2a980000a7<br>
+Gravity Flip : https://www.codewars.com/kata/5f70c883e10f9e0001c89673
 
 
 
