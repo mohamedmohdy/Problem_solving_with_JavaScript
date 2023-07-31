@@ -10,7 +10,9 @@ Capitalization and Mutability : https://www.codewars.com/kata/595970246c9b8fa0a8
 Simple multiplication : https://www.codewars.com/kata/583710ccaa6717322c000105/train/javascript<br>
 Who ate the cookie? : https://www.codewars.com/kata/55a996e0e8520afab9000055<br>
 Who is going to pay for the wall? : https://www.codewars.com/kata/58bf9bd943fadb2a980000a7<br>
-Gravity Flip : https://www.codewars.com/kata/5f70c883e10f9e0001c89673
+Gravity Flip : https://www.codewars.com/kata/5f70c883e10f9e0001c89673<br>
+Lario and Muigi Pipe Problem : https://www.codewars.com/kata/56b29582461215098d00000f/javascript
+
 
 
 
