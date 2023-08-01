@@ -13,7 +13,7 @@ Who is going to pay for the wall? : https://www.codewars.com/kata/58bf9bd943fadb
 Gravity Flip : https://www.codewars.com/kata/5f70c883e10f9e0001c89673<br>
 Lario and Muigi Pipe Problem : https://www.codewars.com/kata/56b29582461215098d00000f/javascript<br>
 Bin to Decimal : https://www.codewars.com/kata/57a5c31ce298a7e6b7000334<br>
-Bin to Decimal : https://www.codewars.com/kata/57a5c31ce298a7e6b7000334<br>
+Add Length : https://www.codewars.com/kata/559d2284b5bb6799e9000047
 
 
 
