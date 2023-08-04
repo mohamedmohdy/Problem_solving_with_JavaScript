@@ -15,7 +15,8 @@ Lario and Muigi Pipe Problem : https://www.codewars.com/kata/56b29582461215098d0
 Bin to Decimal : https://www.codewars.com/kata/57a5c31ce298a7e6b7000334<br>
 Add Length : https://www.codewars.com/kata/559d2284b5bb6799e9000047<br>
 Find Multiples of a Number : https://www.codewars.com/kata/58ca658cc0d6401f2700045f <br>
-Regex count lowercase letters : https://www.codewars.com/kata/56a946cd7bd95ccab2000055
+Regex count lowercase letters : https://www.codewars.com/kata/56a946cd7bd95ccab2000055<br>
+Removing Elements : https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/javascript
 
 
 
