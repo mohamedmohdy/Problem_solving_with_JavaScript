@@ -18,7 +18,10 @@ Find Multiples of a Number : https://www.codewars.com/kata/58ca658cc0d6401f27000
 Regex count lowercase letters : https://www.codewars.com/kata/56a946cd7bd95ccab2000055<br>
 Removing Elements : https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/javascript<br>
 stringystringy : https://www.codewars.com/kata/563b74ddd19a3ad462000054<br>
-Double Char:https://www.codewars.com/kata/56b1f01c247c01db92000076
+Double Char:https://www.codewars.com/kata/56b1f01c247c01db92000076<br>
+Name on billboard:https://www.codewars.com/kata/570e8ec4127ad143660001fd<br>
+Welcome to the City:https://www.codewars.com/kata/5302d846be2a9189af0001e4<br>
+Remove First and Last Character Part Two: https://www.codewars.com/kata/570597e258b58f6edc00230d
 
 
 
