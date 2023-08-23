@@ -17,7 +17,8 @@ Add Length : https://www.codewars.com/kata/559d2284b5bb6799e9000047<br>
 Find Multiples of a Number : https://www.codewars.com/kata/58ca658cc0d6401f2700045f <br>
 Regex count lowercase letters : https://www.codewars.com/kata/56a946cd7bd95ccab2000055<br>
 Removing Elements : https://www.codewars.com/kata/5769b3802ae6f8e4890009d2/train/javascript<br>
-stringystringy : https://www.codewars.com/kata/563b74ddd19a3ad462000054
+stringystringy : https://www.codewars.com/kata/563b74ddd19a3ad462000054<br>
+Double Char:https://www.codewars.com/kata/56b1f01c247c01db92000076
 
 
 
