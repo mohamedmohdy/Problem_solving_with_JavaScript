@@ -25,6 +25,8 @@ Remove First and Last Character Part Two: https://www.codewars.com/kata/570597e2
 Printing Array elements with Comma delimiters:https://www.codewars.com/kata/56e2f59fb2ed128081001328<br>
 Jenny's secret message:https://www.codewars.com/kata/55225023e1be1ec8bc000390<br>
 Short Long Short:https://www.codewars.com/kata/50654ddff44f800200000007<br>
+Job Matching #1:https://www.codewars.com/kata/56c22c5ae8b139416c00175d<br>
+Lario and Muigi Pipe Problem:https://www.codewars.com/kata/56b29582461215098d00000f<br>
 
 
 
