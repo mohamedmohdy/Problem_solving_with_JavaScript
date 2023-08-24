@@ -22,6 +22,9 @@ Double Char:https://www.codewars.com/kata/56b1f01c247c01db92000076<br>
 Name on billboard:https://www.codewars.com/kata/570e8ec4127ad143660001fd<br>
 Welcome to the City:https://www.codewars.com/kata/5302d846be2a9189af0001e4<br>
 Remove First and Last Character Part Two: https://www.codewars.com/kata/570597e258b58f6edc00230d<br>
+Printing Array elements with Comma delimiters:https://www.codewars.com/kata/56e2f59fb2ed128081001328<br>
+Jenny's secret message:https://www.codewars.com/kata/55225023e1be1ec8bc000390<br>
+Short Long Short:https://www.codewars.com/kata/50654ddff44f800200000007<br>
 
 
 
