@@ -27,6 +27,9 @@ Jenny's secret message:https://www.codewars.com/kata/55225023e1be1ec8bc000390<br
 Short Long Short:https://www.codewars.com/kata/50654ddff44f800200000007<br>
 Job Matching #1:https://www.codewars.com/kata/56c22c5ae8b139416c00175d<br>
 Lario and Muigi Pipe Problem:https://www.codewars.com/kata/56b29582461215098d00000f<br>
+Convert a string to an array : https://www.codewars.com/kata/57e76bc428d6fbc2d500036d<br>
+Student's Final Grade : https://www.codewars.com/kata/5ad0d8356165e63c140014d4<br>
+Drink about: https://www.codewars.com/kata/56170e844da7c6f647000063<br>
 
 
 
