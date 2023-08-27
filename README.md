@@ -34,6 +34,11 @@ Bin to Decimal : https://www.codewars.com/kata/57a5c31ce298a7e6b7000334<br>
 Keep Hydrated!:https://www.codewars.com/kata/582cb0224e56e068d800003c<br>
 Expressions Matter:https://www.codewars.com/kata/5ae62fcf252e66d44d00008e<br>
 Get the mean of an array : https://www.codewars.com/kata/563e320cee5dddcf77000158<br>
+My head is at the wrong end! : https://www.codewars.com/kata/56f699cd9400f5b7d8000b55<br>
+Chuck Norris VII - True or False? (Beginner) : https://www.codewars.com/kata/570669d8cb7293a2d1001473<br>
+Count the Monkeys! : https://www.codewars.com/kata/56f69d9f9400f508fb000ba7<br>
+Generate range of integers : https://www.codewars.com/kata/55eca815d0d20962e1000106<br>
+For Twins: 2. Math operations:https://www.codewars.com/kata/59c287b16bddd291c700009a<br>
 
 
 
