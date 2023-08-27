@@ -39,6 +39,9 @@ Chuck Norris VII - True or False? (Beginner) : https://www.codewars.com/kata/570
 Count the Monkeys! : https://www.codewars.com/kata/56f69d9f9400f508fb000ba7<br>
 Generate range of integers : https://www.codewars.com/kata/55eca815d0d20962e1000106<br>
 For Twins: 2. Math operations:https://www.codewars.com/kata/59c287b16bddd291c700009a<br>
+A Needle in the Haystack : https://www.codewars.com/kata/56676e8fabd2d1ff3000000c<br>
+Sentence Smash : https://www.codewars.com/kata/53dc23c68a0c93699800041d<br>
+Counting sheep... : https://www.codewars.com/kata/54edbc7200b811e956000556<br>
 
 
 
