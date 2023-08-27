@@ -30,6 +30,10 @@ Lario and Muigi Pipe Problem:https://www.codewars.com/kata/56b29582461215098d000
 Convert a string to an array : https://www.codewars.com/kata/57e76bc428d6fbc2d500036d<br>
 Student's Final Grade : https://www.codewars.com/kata/5ad0d8356165e63c140014d4<br>
 Drink about: https://www.codewars.com/kata/56170e844da7c6f647000063<br>
+Bin to Decimal : https://www.codewars.com/kata/57a5c31ce298a7e6b7000334<br>
+Keep Hydrated!:https://www.codewars.com/kata/582cb0224e56e068d800003c<br>
+Expressions Matter:https://www.codewars.com/kata/5ae62fcf252e66d44d00008e<br>
+Get the mean of an array : https://www.codewars.com/kata/563e320cee5dddcf77000158<br>
 
 
 
