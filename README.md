@@ -42,6 +42,10 @@ For Twins: 2. Math operations:https://www.codewars.com/kata/59c287b16bddd291c700
 A Needle in the Haystack : https://www.codewars.com/kata/56676e8fabd2d1ff3000000c<br>
 Sentence Smash : https://www.codewars.com/kata/53dc23c68a0c93699800041d<br>
 Counting sheep... : https://www.codewars.com/kata/54edbc7200b811e956000556<br>
+Beginner - Reduce but Grow : https://www.codewars.com/kata/57f780909f7e8e3183000078<br>
+Array plus array : https://www.codewars.com/kata/5a2be17aee1aaefe2a000151<br>
+Total amount of points : https://www.codewars.com/kata/5bb904724c47249b10000131<br>
+Convert number to reversed array of digits : https://www.codewars.com/kata/5583090cbe83f4fd8c000051<br>
 
 
 
