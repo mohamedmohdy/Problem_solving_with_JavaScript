@@ -1,4 +1,5 @@
 <center><h1>codewars_8KYU_problems</h1></center><br>
+<center><h5>Challenge solving 50 problems from kUY 8 in codewars has been completed</h5></center>
 Draw stairs : https://www.codewars.com/kata/5b4e779c578c6a898e0005c5<br>
 Total pressure calculation : https://www.codewars.com/kata/5b7ea71db90cc0f17c000a5a/train/javascript<br>
 Sum of Multiples : https://www.codewars.com/kata/57241e0f440cd279b5000829<br>
