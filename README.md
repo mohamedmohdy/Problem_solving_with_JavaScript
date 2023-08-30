@@ -51,6 +51,7 @@ L1: Set Alarm:https://www.codewars.com/kata/568dcc3c7f12767a62000038<br>
 The Wide-Mouthed frog!:https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89<br>
 <hr>
 <center><h1>codewars_7KYU_problems</h1></center><br>
+Selective fear of numbers:https://www.codewars.com/kata/55b1fd84a24ad00b32000075<br>
 
 
 
