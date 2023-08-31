@@ -52,6 +52,7 @@ The Wide-Mouthed frog!:https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89<br
 <hr>
 <center><h1>codewars_7KYU_problems</h1></center><br>
 Selective fear of numbers:https://www.codewars.com/kata/55b1fd84a24ad00b32000075<br>
+Cats and shelves : https://www.codewars.com/kata/62c93765cef6f10030dfa92b<br>
 
 
 
