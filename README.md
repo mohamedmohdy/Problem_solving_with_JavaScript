@@ -54,6 +54,7 @@ The Wide-Mouthed frog!:https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89<br
 Selective fear of numbers:https://www.codewars.com/kata/55b1fd84a24ad00b32000075<br>
 Cats and shelves : https://www.codewars.com/kata/62c93765cef6f10030dfa92b<br>
 Simple Fun #10: Range Bit Counting (convert numper in aray to binary and sum binary)(important_problem) : https://www.codewars.com/kata/58845748bd5733f1b300001f<br>
+Nice Array : https://www.codewars.com/kata/59b844528bcb7735560000a0
 
 
 
