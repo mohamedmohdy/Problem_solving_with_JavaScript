@@ -49,12 +49,15 @@ Total amount of points : https://www.codewars.com/kata/5bb904724c47249b10000131<
 Convert number to reversed array of digits : https://www.codewars.com/kata/5583090cbe83f4fd8c000051<br>
 L1: Set Alarm:https://www.codewars.com/kata/568dcc3c7f12767a62000038<br>
 The Wide-Mouthed frog!:https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89<br>
+Regexp Basics - is it a digit? : https://www.codewars.com/kata/567bf4f7ee34510f69000032
+
 <hr>
 <center><h1>codewars_7KYU_problems</h1></center><br>
 Selective fear of numbers:https://www.codewars.com/kata/55b1fd84a24ad00b32000075<br>
 Cats and shelves : https://www.codewars.com/kata/62c93765cef6f10030dfa92b<br>
 Simple Fun #10: Range Bit Counting (convert numper in aray to binary and sum binary)(important_problem) : https://www.codewars.com/kata/58845748bd5733f1b300001f<br>
 Nice Array : https://www.codewars.com/kata/59b844528bcb7735560000a0
+
 
 
 
